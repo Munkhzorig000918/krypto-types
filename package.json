@@ -1,0 +1,22 @@
+{
+  "name": "types2y",
+  "version": "1.0.0",
+  "description": "M4G11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munkhzorig000918/krypto-types.git"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "Mugii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munkhzorig000918/krypto-types/issues"
+  },
+  "homepage": "https://github.com/Munkhzorig000918/krypto-types#readme"
+}

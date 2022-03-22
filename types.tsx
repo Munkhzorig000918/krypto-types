@@ -326,4 +326,11 @@ function types() {
     }
 }
 
-module.exports.types = types;
+function add(a, b) {
+    return a + b
+}
+
+module.exports = {
+    types,
+    add
+}
